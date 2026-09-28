@@ -1,0 +1,79 @@
+
+    .home{
+        background-color: black;
+        color: white;
+        padding: 10px;
+        
+    }
+    h1{
+        display: inline;
+    }
+    li{
+        display: inline;
+        cursor: pointer;
+        
+    }
+    li:hover{
+        color: red;
+    }
+    ul{
+        display: inline;
+        margin-left: 60%;
+
+    }
+    .two{
+        margin: 30px;
+        text-align: center;
+        
+    }
+    input{
+        width: 60%;
+        padding: 20px;
+    }
+    .product{
+        text-align: center;
+        
+    }
+    .three{
+        border-width: 2px;
+        border-color: black;
+        border-style: solid;
+        display: inline-block;
+        width: 250px;
+    }
+    .four{
+        border-width: 2px;
+        border-color: black;
+        border-style: solid;
+        display: inline-block;
+        width: 250px;
+    }
+    .five{
+        border-width: 2px;
+        border-color: black;
+        border-style: solid;
+        display: inline-block;
+        width: 250px;
+    }
+.three:hover{
+    background-color: black;
+    color: white;
+}
+.four:hover{
+    background-color: black;
+    color: white;
+}
+.five:hover{
+    background-color: black;
+    color: white;
+}
+.about{
+    text-align: center;
+    margin: 20px;
+}
+.contect{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}

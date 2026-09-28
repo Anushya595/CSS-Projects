@@ -1,0 +1,71 @@
+.one{
+    display: inline;
+}
+li{
+    display: inline;
+    
+}
+.navbar{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+  
+}
+.two{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 250px;
+    text-align: center;
+    display: inline-block;
+
+
+}
+.three{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 250px;
+    text-align: center;
+    display: inline-block;
+
+
+}
+.four{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 250px;
+    text-align: center;
+    display: inline-block;
+
+
+}
+.five{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 250px;
+    text-align: center;
+    display: inline-block;
+
+
+}
+.receipe{
+    margin: 20px;
+    text-align: center;
+    
+    
+}
+button:hover{
+    background-color: black;
+    color: white;
+
+}
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
